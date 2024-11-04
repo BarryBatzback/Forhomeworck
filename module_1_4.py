@@ -1,0 +1,8 @@
+print ('Введите ваше ФИО: ')
+my_string = input()
+print ('Здравствуйте, ' + (str(my_string)))
+print (my_string.upper())
+print (my_string.lower())
+print (my_string[0])
+print (my_string[-1])
+print (str(my_string.replace(' ','0')))

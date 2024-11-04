@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c3bb607-9e2d-4783-9321-79aaaef49941" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_1_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,12 +47,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.12.executor": "Run",
     "Python.module_1_3.executor": "Run",
+    "Python.module_1_4.executor": "Run",
     "Python.module_1_6.executor": "Run",
     "Python.module_1_9.executor": "Run",
     "Python.t4s.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/PythonprojectsForUniv/PPForHomeworck"
   }
 }]]></component>
   <component name="RecentsManager">
