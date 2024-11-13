@@ -16,6 +16,5 @@ for i in range(len(numbers)):
         not_primes.append(n)
     else:
         primes.append(n)
-is_prime = True
 print('Простые числа ', primes)
 print('Сложные числа ', not_primes)

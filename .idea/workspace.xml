@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c3bb607-9e2d-4783-9321-79aaaef49941" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,9 @@
     &quot;accountId&quot;: &quot;7ed7ca01-5ea4-47e9-ba71-a1eb00241960&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -57,6 +61,7 @@
     "Python.module_1_9.executor": "Run",
     "Python.module_2_3.executor": "Run",
     "Python.module_2_4.executor": "Run",
+    "Python.module_2_5.executor": "Run",
     "Python.old.executor": "Run",
     "Python.t4s.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
