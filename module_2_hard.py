@@ -1,4 +1,4 @@
-def generate_password(n):
+def NUMBERS(n):
     result = ""
     pairs = []
 
@@ -13,21 +13,21 @@ def generate_password(n):
 
     return result
 
-print(generate_password(3))
-print(generate_password(4))
-print(generate_password(5))
-print(generate_password(6))
-print(generate_password(7))
-print(generate_password(8))
-print(generate_password(9))
-print(generate_password(10))
-print(generate_password(11))
-print(generate_password(12))
-print(generate_password(13))
-print(generate_password(14))
-print(generate_password(15))
-print(generate_password(16))
-print(generate_password(17))
-print(generate_password(18))
-print(generate_password(19))
-print(generate_password(20))
+print(NUMBERS(3))
+print(NUMBERS(4))
+print(NUMBERS(5))
+print(NUMBERS(6))
+print(NUMBERS(7))
+print(NUMBERS(8))
+print(NUMBERS(9))
+print(NUMBERS(10))
+print(NUMBERS(11))
+print(NUMBERS(12))
+print(NUMBERS(13))
+print(NUMBERS(14))
+print(NUMBERS(15))
+print(NUMBERS(16))
+print(NUMBERS(17))
+print(NUMBERS(18))
+print(NUMBERS(19))
+print(NUMBERS(20))

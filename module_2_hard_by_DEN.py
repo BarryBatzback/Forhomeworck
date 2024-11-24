@@ -6,6 +6,7 @@ def NUMBERS(n):
             pairs.append(i)
             pairs.append(j)
     return pairs
+
 import random
 num = random.randint(3,20)
 print("Число из первой вставк: ",num)
@@ -16,4 +17,4 @@ if result:
     else:
         print('Нет пар')
 
-NUMBERS(3)
+print(NUMBERS(3))
