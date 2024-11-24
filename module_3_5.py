@@ -12,5 +12,5 @@ def get_multiplied_digits(number):
 result = get_multiplied_digits(40203)
 print(result)
 
-result1 = get_multiplied_digits(40203)
+result1 = get_multiplied_digits(40203) # если вызов будет как в задании (result2 = get_multiplied_digits(402030)) возвращает 0
 print(result1)
