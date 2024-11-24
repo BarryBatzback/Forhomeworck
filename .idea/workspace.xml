@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c3bb607-9e2d-4783-9321-79aaaef49941" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_3_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +68,10 @@
     "Python.module_3_1.executor": "Run",
     "Python.module_3_2.executor": "Run",
     "Python.module_3_3.executor": "Run",
+    "Python.module_3_4.executor": "Run",
     "Python.old.executor": "Run",
     "Python.t4s.executor": "Run",
+    "Python.test_3_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
