@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c3bb607-9e2d-4783-9321-79aaaef49941" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NewPack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vodule_5_HARD.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vodule_5_HARD.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_5_HARD.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +73,7 @@
     "Python.module_3_5.executor": "Run",
     "Python.module_3_hard.executor": "Run",
     "Python.module_4_1.executor": "Run",
+    "Python.module_6_1.executor": "Run",
     "Python.old.executor": "Run",
     "Python.t4s.executor": "Run",
     "Python.test_3_4.executor": "Run",
